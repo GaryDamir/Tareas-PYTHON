@@ -1,3 +1,3 @@
-# Título con <font color="purple">Color</font>
+# BIENVENIDOS A MI ESPACIO <font color="red">DE PROGRAMACION</font>
 
-Este es un párrafo con un <span style="color:skyblue">enlace de color</span>.
+Aqui encontraran diversos codigos para empezar en  <span style="color:skyblue">PYTHONr</span>.
