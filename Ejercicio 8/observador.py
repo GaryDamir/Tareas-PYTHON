@@ -1,4 +1,4 @@
-from Jugador import Jugador
+from jugador import Jugador
 
 #Clase observador
 
