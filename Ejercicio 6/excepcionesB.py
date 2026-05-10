@@ -23,4 +23,3 @@ except IndexError as e:
 
 finally:
     print("Gracias por usar el programa")
-
